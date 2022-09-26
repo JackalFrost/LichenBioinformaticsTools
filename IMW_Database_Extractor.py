@@ -1,5 +1,6 @@
 # take in file, pull out text wanted, output
 # need to fill in blanks or incomplete vouchers 3-6 8-9 and 11, 7 is a marker,
+# This program is designed to pull out the data needed for uploading to BOLD. The main issue is that the columns are hardcoded in.
 
 # import re
 import string
