@@ -1,7 +1,3 @@
-import re
-
-# lichen_file = "testfile3.txt"
-
 
 def unique_finder(filename):
     unique_species = []
